@@ -1,7 +1,12 @@
 # Ignore everything
-*
+*/
 
 # But not these files...
 !.gitignore
 !config/bcc-common.toml
 !mods/
+options.txt
+patchouli_data.json
+servers.dat
+usercache.json
+usernamecache.json
